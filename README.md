@@ -11,19 +11,18 @@ Hi. I’m Parul. I build lots of demos on this account and write blogs on [_my M
 [![GitHub iampawan](https://img.shields.io/github/followers/parulc7?label=follow&style=social)](https://github.com/parulc7)
 [![website](https://img.shields.io/badge/PortfolioWebsite-parulc7-2648ff?style=flat-square&logo=google-chrome)](https://parulc7.github.io)
 
-:bulb: Always willing to learn and grow. 
+:bulb: Always willing to learn and grow.
 
+**Languages and Frameworks**
 
+<div style="display:grid">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-
-<a href="https://github.com/parulc7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parulc7&theme=dark&hide_langs_below=1" />
-</a>
+</div>
 
 <a href="https://github.com/parulc7/MeTorrent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parulc7&repo=MeTorrent&theme=dark" />
