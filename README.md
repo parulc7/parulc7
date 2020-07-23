@@ -14,7 +14,7 @@ Hi. I’m Parul. I build lots of demos on this account and write blogs on [_my M
 :bulb: Always willing to learn and grow. 
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
@@ -22,7 +22,7 @@ Hi. I’m Parul. I build lots of demos on this account and write blogs on [_my M
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 <a href="https://github.com/parulc7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parulc7&theme=dark&hide_langs_below=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parulc7&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/parulc7/MeTorrent">
