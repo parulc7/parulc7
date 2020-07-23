@@ -8,4 +8,6 @@ Hi. I’m Parul. I build lots of demos on this account and write blogs on [_my M
 
 :bulb: Always willing to learn and grow. 
 
+[![Parul's github stats](https://github-readme-stats.vercel.app/api?username=parulc7)](https://github.com/anuraghazra/github-readme-stats)
+
 ```Find what you love and let it kill you.```
