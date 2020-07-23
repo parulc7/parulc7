@@ -9,7 +9,7 @@ Hi. I’m Parul. I build lots of demos on this account and write blogs on [_my M
 
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parulc7/)](https://www.linkedin.com/in/parulc7/)
 [![GitHub iampawan](https://img.shields.io/github/followers/parulc7?label=follow&style=social)](https://github.com/parulc7)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://parulc7.github.io)
+[![website](https://img.shields.io/badge/PortfolioWebsite-parulc7-2648ff?style=flat-square&logo=google-chrome)](https://parulc7.github.io)
 
 :bulb: Always willing to learn and grow. 
 
