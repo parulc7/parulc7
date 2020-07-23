@@ -32,5 +32,5 @@ Hi. I’m Parul. I build lots of demos on this account and write blogs on [_my M
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parulc7&repo=chatClient&theme=dark" />
 </a>
 <div align="center">
-  ```Find what you love and let it kill you.```
+  ###Find what you love and let it kill you
 </div>
