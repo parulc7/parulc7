@@ -25,11 +25,11 @@ Hi. I’m Parul. I build lots of demos on this account and write blogs on [_my M
 </div>
 <br/>
 <br/>
-<a href="https://github.com/parulc7/MeTorrent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parulc7&repo=MeTorrent&theme=dark" />
-</a>
-<a href="https://github.com/parulc7/chatClient">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parulc7&repo=chatClient&theme=dark" />
+
+## Some of my Github Public Stats
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=parulc7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/parulc7)
+
+![Profile Views](https://komarev.com/ghpvc/?username=parulc7&color=blue)
 </a>
 <br/>
 <br/>
